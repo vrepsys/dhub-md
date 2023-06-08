@@ -1,4 +1,4 @@
 # dhub-md
 
-Laba diena, su vištiena
+Laba diena, su vištiena. Testuojam
 
