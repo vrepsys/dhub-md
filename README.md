@@ -1,10 +1,4 @@
 # dhub-md
 
-Hello
-
-Ahohoy9sadfsadf
-
-asdf
-
-sadf
+Laba diena, su vištiena
 
