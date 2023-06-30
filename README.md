@@ -2,4 +2,4 @@
 
 Laba diena, su vištiena. Testuojam
 
-Veikia?
+Veikia? Dar kartą, ar veikia?
