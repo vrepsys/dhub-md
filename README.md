@@ -2,4 +2,8 @@
 
 Laba diena, su vištiena. Testuojam
 
-Veikia?
+Veikia? KOMITAS
+
+
+
+dar vienas
