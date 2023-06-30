@@ -2,10 +2,8 @@
 
 Laba diena, su vištiena. Testuojam
 
-Pasižiūrim ar veikia. Neveikia?
-
-O kaip dabar?
+Veikia?
 
 
 
-Hello there world
+Na o kaip dabar?
